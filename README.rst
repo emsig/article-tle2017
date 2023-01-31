@@ -21,5 +21,5 @@ home.
 Versions
 --------
 
-2017 - `Original version <https://github.com/emsig/article-tle2017/releases/tag/v1.0>`_
-2019-01-31 - Update to work with `empymod>2` and other little improvements.
+- 2017 - `Original version <https://github.com/emsig/article-tle2017/releases/tag/v1.0>`_
+- 2019-01-31 - Update to work with `empymod>2` and other little improvements.
