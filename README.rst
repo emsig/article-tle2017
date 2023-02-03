@@ -18,10 +18,12 @@ links in the article linking to `github.com/prisae
 home.
 
 
-## ✨ Try it in your browser ✨
+✨ Try it in your browser ✨
+----------------------------
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://emsig.xyz/emlite/retro/notebooks/?path=TLE-Tutorial-2017.ipynb)
-
+.. image:: https://jupyterlite.rtfd.io/en/latest/_static/badge.svg
+   :target: https://emsig.xyz/emlite/retro/notebooks/?path=TLE-Tutorial-2017.ipynb
+   :alt: lite-badge
 
 Versions
 --------
